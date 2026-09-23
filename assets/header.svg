@@ -1,42 +1,43 @@
-<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset="0.55" stop-color="#111827"/>
-      <stop offset="1" stop-color="#172554"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06140D"/>
+      <stop offset="0.56" stop-color="#0B2B1A"/>
+      <stop offset="1" stop-color="#052E16"/>
     </linearGradient>
-    <linearGradient id="accent" x1="140" y1="70" x2="770" y2="255" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#A78BFA"/>
+    <linearGradient id="accent" x1="100" y1="80" x2="850" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#A3E635"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 36) rotate(130) scale(380 430)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2563EB" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1030 46) rotate(130) scale(430 470)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16A34A" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#16A34A" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.08"/>
+      <path d="M34 0H0V34" stroke="#86EFAC" stroke-opacity="0.09"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="310" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="310" rx="24" fill="url(#glow)"/>
-  <rect width="1200" height="310" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
 
-  <circle cx="1050" cy="76" r="116" stroke="#38BDF8" stroke-opacity="0.14" stroke-width="2"/>
-  <circle cx="1050" cy="76" r="78" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="2"/>
-  <circle cx="1050" cy="76" r="7" fill="#38BDF8"/>
-  <path d="M1050 76L1167 76M1050 76L1010 190M1050 76L950 24" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="1050" cy="78" r="120" stroke="#4ADE80" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1050" cy="78" r="82" stroke="#A3E635" stroke-opacity="0.22" stroke-width="2"/>
+  <circle cx="1050" cy="78" r="7" fill="#A3E635"/>
+  <path d="M1050 78L1170 78M1050 78L1010 205M1050 78L948 25" stroke="#4ADE80" stroke-opacity="0.34" stroke-width="2"/>
 
-  <path d="M78 230C210 230 220 98 360 98C496 98 485 230 622 230C760 230 760 98 898 98" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="78" cy="230" r="5" fill="#38BDF8"/>
-  <circle cx="360" cy="98" r="5" fill="#A78BFA"/>
-  <circle cx="622" cy="230" r="5" fill="#38BDF8"/>
-  <circle cx="898" cy="98" r="5" fill="#A78BFA"/>
+  <path d="M80 286C215 286 225 125 365 125C501 125 490 286 628 286C766 286 766 125 905 125" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="80" cy="286" r="5" fill="#22C55E"/>
+  <circle cx="365" cy="125" r="5" fill="#A3E635"/>
+  <circle cx="628" cy="286" r="5" fill="#22C55E"/>
+  <circle cx="905" cy="125" r="5" fill="#A3E635"/>
 
-  <text x="78" y="112" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4">OLÁ! MEU NOME É</text>
-  <text x="78" y="167" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Marcos Aurélio</text>
-  <text x="80" y="201" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Desenvolvedor em formação • Aprendizado contínuo</text>
+  <text x="80" y="92" fill="#BBF7D0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4">OLÁ! MEU NOME É</text>
+  <text x="80" y="151" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Marcos Aurélio</text>
+  <text x="82" y="188" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="19">Engenheiro de Software • Aprendizado contínuo</text>
+  <text x="82" y="226" fill="#86EFAC" font-family="Segoe UI, Arial, sans-serif" font-size="17">marcosdevaurelio@gmail.com</text>
 
-  <rect x="78" y="252" width="164" height="4" rx="2" fill="url(#accent)"/>
-  <text x="262" y="259" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">BUILD • LEARN • REPEAT</text>
+  <rect x="80" y="301" width="164" height="4" rx="2" fill="url(#accent)"/>
+  <text x="264" y="308" fill="#86A98F" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">BUILD • LEARN • REPEAT</text>
 </svg>

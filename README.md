@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Marcos Aurélio — desenvolvedor em formação" width="100%" />
+  <img src="./assets/header.svg" alt="Marcos Aurélio — engenheiro de software" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://github.com/MarcosAAurelio">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-14532d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MarcosAAurelio&style=for-the-badge&color=0ea5e9&label=VISITAS" alt="Visualizações do perfil" />
+  <a href="mailto:marcosdevaurelio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marcosdevaurelio%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MarcosAAurelio&style=for-the-badge&color=16a34a&label=VISITAS" alt="Visualizações do perfil" />
 </p>
 
 <p align="center">
-  <strong>Construindo minha base em tecnologia, um projeto de cada vez.</strong><br />
+  <strong>Engenheiro de Software • Construindo soluções, um projeto de cada vez.</strong><br />
   Java&nbsp;&nbsp;•&nbsp;&nbsp;C&nbsp;&nbsp;•&nbsp;&nbsp;MySQL&nbsp;&nbsp;•&nbsp;&nbsp;AWS
 </p>
 
@@ -18,7 +21,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Marcos Aurélio. Estou explorando o desenvolvimento de software e fortalecendo meus fundamentos em programação, bancos de dados, versionamento e computação em nuvem.
+Olá! Meu nome é Marcos Aurélio. Sou Engenheiro de Software e estou explorando o desenvolvimento de software, bancos de dados, versionamento e computação em nuvem.
 
 Gosto de aprender na prática, transformar ideias em projetos e evoluir um pouco a cada commit.
 
@@ -46,17 +49,35 @@ Gosto de aprender na prática, transformar ideias em projetos e evoluir um pouco
 ## GitHub em números
 
 <div align="center">
-  <a href="https://github.com/MarcosAAurelio">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosAAurelio&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&locale=pt-br" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/MarcosAAurelio?tab=followers">
+    <img src="https://img.shields.io/github/followers/MarcosAAurelio?style=for-the-badge&label=SEGUIDORES&color=16a34a" alt="Seguidores" />
   </a>
-  <a href="https://github.com/MarcosAAurelio">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAAurelio&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&locale=pt-br" alt="Linguagens mais usadas" />
+  <a href="https://github.com/MarcosAAurelio/MarcosAAurelio/commits/main">
+    <img src="https://img.shields.io/github/last-commit/MarcosAAurelio/MarcosAAurelio?style=for-the-badge&label=ÚLTIMO%20COMMIT&color=22c55e" alt="Último commit" />
+  </a>
+  <a href="https://github.com/MarcosAAurelio?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITÓRIOS-9-15803d?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcosAAurelio&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAAurelio&theme=github_dark" width="100%" alt="Resumo do perfil no GitHub" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosAAurelio&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosAAurelio&theme=github_dark" alt="Linguagem mais usada" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MarcosAAurelio&theme=transparent&hide_border=true&background=00000000&ring=22c55e&fire=a3e635&currStreakLabel=22c55e&sideLabels=86efac&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&locale=pt_BR" alt="Sequência de contribuições" />
+</div>
+
+## Cobrinha de contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosAAurelio/MarcosAAurelio/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições do GitHub" width="100%" />
+</p>
 
 <br />
 
