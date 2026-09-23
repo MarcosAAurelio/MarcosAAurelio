@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg?v=4" alt="Marcos Aurélio — engenheiro de software" width="100%" />
+  <img src="./assets/header.svg?v=5" alt="Marcos Aurélio — engenheiro de software" width="100%" />
 </div>
 
 <p align="center">
@@ -11,6 +11,12 @@
   </a>
   <a href="tel:+5561991594621">
     <img src="https://img.shields.io/badge/Telefone-%2B55%2061%2099159--4621-365c45?style=for-the-badge" alt="Telefone" />
+  </a>
+  <a href="https://www.linkedin.com/in/eu-marcosaurelio-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-365c45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/marcosadev">
+    <img src="https://img.shields.io/badge/Instagram-365c45?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=MarcosAAurelio&style=for-the-badge&color=5a7d5f&label=VISITAS" alt="Visualizações do perfil" />
 </p>

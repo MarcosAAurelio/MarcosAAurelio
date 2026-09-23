@@ -5,13 +5,21 @@
       <stop offset="0.52" stop-color="#0D2C3D"/>
       <stop offset="1" stop-color="#092131"/>
     </linearGradient>
-    <linearGradient id="contact" x1="270" y1="170" x2="1130" y2="236" gradientUnits="userSpaceOnUse">
+    <linearGradient id="contact" x1="230" y1="164" x2="1170" y2="268" gradientUnits="userSpaceOnUse">
       <stop stop-color="#17394D"/>
       <stop offset="1" stop-color="#24495B"/>
     </linearGradient>
-    <radialGradient id="yellowGlow" cx="0" cy="0" r="1" gradientTransform="translate(145 64) rotate(90) scale(150)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F7DF1E" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#F7DF1E" stop-opacity="0"/>
+    <linearGradient id="java" x1="94" y1="36" x2="178" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8B24A"/>
+      <stop offset="1" stop-color="#C87532"/>
+    </linearGradient>
+    <linearGradient id="database" x1="100" y1="190" x2="195" y2="275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EB49A"/>
+      <stop offset="1" stop-color="#287A70"/>
+    </linearGradient>
+    <radialGradient id="amberGlow" cx="0" cy="0" r="1" gradientTransform="translate(145 64) rotate(90) scale(150)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D99B3D" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#D99B3D" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1250 218) rotate(180) scale(210)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#28C7E8" stop-opacity="0.2"/>
@@ -23,41 +31,59 @@
   </defs>
 
   <rect width="1400" height="300" rx="24" fill="url(#background)"/>
-  <rect width="1400" height="300" rx="24" fill="url(#yellowGlow)"/>
+  <rect width="1400" height="300" rx="24" fill="url(#amberGlow)"/>
   <rect width="1400" height="300" rx="24" fill="url(#cyanGlow)"/>
   <rect width="1400" height="300" rx="24" fill="url(#grid)"/>
 
-  <!-- JavaScript-inspired decorative mark -->
-  <g transform="translate(86 28) rotate(9 52 46)">
-    <rect width="104" height="92" rx="14" fill="#F7DF1E"/>
-    <text x="52" y="64" text-anchor="middle" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">JS</text>
+  <!-- Java-inspired coffee cup -->
+  <g transform="translate(86 24)">
+    <path d="M47 39C38 30 43 22 50 15M66 39C58 29 65 21 71 13M84 39C76 30 82 22 89 16" stroke="url(#java)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M34 48H89V80C89 95 78 105 61.5 105C45 105 34 95 34 80V48Z" fill="url(#java)"/>
+    <path d="M89 57H101C111 57 116 63 116 72C116 81 110 87 100 87H90" stroke="#D99B3D" stroke-width="7" stroke-linecap="round"/>
+    <path d="M25 111H100" stroke="#D99B3D" stroke-width="7" stroke-linecap="round"/>
+    <text x="62" y="139" text-anchor="middle" fill="#E8B24A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">JAVA</text>
   </g>
 
-  <!-- Code-inspired decorative mark -->
-  <g transform="translate(190 190)">
-    <path d="M38 0L72 20V60L38 80L4 60V20L38 0Z" stroke="#29B777" stroke-width="5"/>
-    <text x="38" y="51" text-anchor="middle" fill="#70E2B0" font-family="Consolas, monospace" font-size="24" font-weight="700">&lt;/&gt;</text>
+  <!-- Database cylinders -->
+  <g transform="translate(94 194)">
+    <path d="M0 10V58C0 64 21 69 47 69C73 69 94 64 94 58V10" fill="url(#database)" fill-opacity="0.82" stroke="#4EB49A" stroke-width="2"/>
+    <ellipse cx="47" cy="10" rx="47" ry="10" fill="#4EB49A" stroke="#8BD1BC" stroke-width="2"/>
+    <path d="M0 32C0 38 21 43 47 43C73 43 94 38 94 32" stroke="#8BD1BC" stroke-opacity="0.8" stroke-width="2"/>
+    <path d="M0 56C0 62 21 67 47 67C73 67 94 62 94 56" stroke="#8BD1BC" stroke-opacity="0.8" stroke-width="2"/>
+    <text x="47" y="91" text-anchor="middle" fill="#6FC5AD" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">DATABASE</text>
   </g>
 
   <!-- Abstract technology marks -->
-  <text x="1250" y="76" text-anchor="middle" fill="#25B8D4" font-family="Consolas, monospace" font-size="62" font-weight="700">{ }</text>
-  <text x="1260" y="250" text-anchor="middle" fill="#55D2E9" font-family="Consolas, monospace" font-size="64" font-weight="700">&lt;/&gt;</text>
-  <circle cx="1180" cy="64" r="4" fill="#F7DF1E"/>
-  <circle cx="1308" cy="142" r="5" fill="#29B777"/>
+  <text x="1250" y="76" text-anchor="middle" fill="#55D2E9" font-family="Consolas, monospace" font-size="62" font-weight="700">{ }</text>
+  <text x="1260" y="250" text-anchor="middle" fill="#4EB49A" font-family="Consolas, monospace" font-size="64" font-weight="700">&lt;/&gt;</text>
+  <circle cx="1180" cy="64" r="4" fill="#D99B3D"/>
+  <circle cx="1308" cy="142" r="5" fill="#4EB49A"/>
   <circle cx="1160" cy="246" r="4" fill="#55D2E9"/>
 
-  <text x="700" y="76" text-anchor="middle" fill="#F5F8FA" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2">MARCOS AURÉLIO</text>
-  <text x="700" y="122" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">ENGENHEIRO DE SOFTWARE</text>
-  <text x="700" y="149" text-anchor="middle" fill="#B8D0D9" font-family="Segoe UI, Arial, sans-serif" font-size="17">Construindo soluções com código e propósito</text>
+  <text x="700" y="70" text-anchor="middle" fill="#F5F8FA" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2">MARCOS AURÉLIO</text>
+  <text x="700" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">ENGENHEIRO DE SOFTWARE</text>
+  <text x="700" y="138" text-anchor="middle" fill="#B8D0D9" font-family="Segoe UI, Arial, sans-serif" font-size="17">Construindo soluções com código e propósito</text>
 
-  <rect x="265" y="178" width="870" height="68" rx="18" fill="url(#contact)" stroke="#3B6173" stroke-width="1"/>
-  <line x1="700" y1="192" x2="700" y2="232" stroke="#5D8291" stroke-opacity="0.65"/>
-  <text x="310" y="205" fill="#F7DF1E" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">E-MAIL</text>
-  <text x="310" y="229" fill="#F2F7F9" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">marcosdevaurelio@gmail.com</text>
-  <text x="745" y="205" fill="#55D2E9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">TELEFONE</text>
-  <text x="745" y="229" fill="#F2F7F9" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">+55 61 99159-4621</text>
+  <rect x="230" y="164" width="940" height="104" rx="18" fill="url(#contact)" stroke="#3B6173" stroke-width="1"/>
+  <line x1="700" y1="178" x2="700" y2="216" stroke="#5D8291" stroke-opacity="0.65"/>
+  <line x1="248" y1="222" x2="1152" y2="222" stroke="#5D8291" stroke-opacity="0.45"/>
+  <line x1="700" y1="232" x2="700" y2="256" stroke="#5D8291" stroke-opacity="0.65"/>
 
-  <path d="M430 273H970" stroke="#3C6576" stroke-opacity="0.7"/>
-  <circle cx="420" cy="273" r="3" fill="#F7DF1E"/>
-  <circle cx="980" cy="273" r="3" fill="#55D2E9"/>
+  <text x="272" y="187" fill="#D99B3D" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">E-MAIL</text>
+  <text x="272" y="209" fill="#F2F7F9" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">marcosdevaurelio@gmail.com</text>
+  <text x="735" y="187" fill="#55D2E9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">TELEFONE</text>
+  <text x="735" y="209" fill="#F2F7F9" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">+55 61 99159-4621</text>
+
+  <rect x="272" y="232" width="22" height="22" rx="4" fill="#3D97AA"/>
+  <text x="283" y="249" text-anchor="middle" fill="#071A2A" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">in</text>
+  <text x="307" y="247" fill="#B8D0D9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">linkedin.com/in/eu-marcosaurelio-dev</text>
+
+  <rect x="735" y="232" width="22" height="22" rx="6" stroke="#D99B3D" stroke-width="3"/>
+  <circle cx="746" cy="243" r="5" stroke="#D99B3D" stroke-width="2"/>
+  <circle cx="752" cy="237" r="1.5" fill="#D99B3D"/>
+  <text x="770" y="247" fill="#B8D0D9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">instagram.com/marcosadev</text>
+
+  <path d="M430 285H970" stroke="#3C6576" stroke-opacity="0.7"/>
+  <circle cx="420" cy="285" r="3" fill="#D99B3D"/>
+  <circle cx="980" cy="285" r="3" fill="#55D2E9"/>
 </svg>
