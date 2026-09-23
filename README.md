@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou **Marcos Aurélio**. Estou explorando o desenvolvimento de software e fortalecendo meus fundamentos em programação, bancos de dados, versionamento e computação em nuvem.
+Olá! Meu nome é Marcos Aurélio. Estou explorando o desenvolvimento de software e fortalecendo meus fundamentos em programação, bancos de dados, versionamento e computação em nuvem.
 
 Gosto de aprender na prática, transformar ideias em projetos e evoluir um pouco a cada commit.
 

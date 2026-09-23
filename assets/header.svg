@@ -33,7 +33,7 @@
   <circle cx="622" cy="230" r="5" fill="#38BDF8"/>
   <circle cx="898" cy="98" r="5" fill="#A78BFA"/>
 
-  <text x="78" y="112" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4">OLÁ, EU SOU</text>
+  <text x="78" y="112" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4">OLÁ! MEU NOME É</text>
   <text x="78" y="167" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Marcos Aurélio</text>
   <text x="80" y="201" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Desenvolvedor em formação • Aprendizado contínuo</text>
 
