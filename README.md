@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Marcos Aurélio — engenheiro de software" width="100%" />
+  <img src="./assets/header.svg?v=3" alt="Marcos Aurélio — engenheiro de software" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://github.com/MarcosAAurelio">
-    <img src="https://img.shields.io/badge/GitHub-14532d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-365c45?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:marcosdevaurelio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marcosdevaurelio%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-marcosdevaurelio%40gmail.com-365c45?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MarcosAAurelio&style=for-the-badge&color=16a34a&label=VISITAS" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=MarcosAAurelio&style=for-the-badge&color=5a7d5f&label=VISITAS" alt="Visualizações do perfil" />
 </p>
 
 <p align="center">
@@ -50,13 +50,13 @@ Gosto de aprender na prática, transformar ideias em projetos e evoluir um pouco
 
 <div align="center">
   <a href="https://github.com/MarcosAAurelio?tab=followers">
-    <img src="https://img.shields.io/github/followers/MarcosAAurelio?style=for-the-badge&label=SEGUIDORES&color=16a34a" alt="Seguidores" />
+    <img src="https://img.shields.io/github/followers/MarcosAAurelio?style=for-the-badge&label=SEGUIDORES&color=365c45" alt="Seguidores" />
   </a>
   <a href="https://github.com/MarcosAAurelio/MarcosAAurelio/commits/main">
-    <img src="https://img.shields.io/github/last-commit/MarcosAAurelio/MarcosAAurelio?style=for-the-badge&label=ÚLTIMO%20COMMIT&color=22c55e" alt="Último commit" />
+    <img src="https://img.shields.io/github/last-commit/MarcosAAurelio/MarcosAAurelio?style=for-the-badge&label=ÚLTIMO%20COMMIT&color=365c45" alt="Último commit" />
   </a>
   <a href="https://github.com/MarcosAAurelio?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITÓRIOS-9-15803d?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/REPOSITÓRIOS-9-365c45?style=for-the-badge" alt="Repositórios" />
   </a>
 </div>
 
