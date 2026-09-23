@@ -1,0 +1,42 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="70" x2="770" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 36) rotate(130) scale(380 430)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="310" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="310" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="310" rx="24" fill="url(#grid)"/>
+
+  <circle cx="1050" cy="76" r="116" stroke="#38BDF8" stroke-opacity="0.14" stroke-width="2"/>
+  <circle cx="1050" cy="76" r="78" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1050" cy="76" r="7" fill="#38BDF8"/>
+  <path d="M1050 76L1167 76M1050 76L1010 190M1050 76L950 24" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="2"/>
+
+  <path d="M78 230C210 230 220 98 360 98C496 98 485 230 622 230C760 230 760 98 898 98" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="78" cy="230" r="5" fill="#38BDF8"/>
+  <circle cx="360" cy="98" r="5" fill="#A78BFA"/>
+  <circle cx="622" cy="230" r="5" fill="#38BDF8"/>
+  <circle cx="898" cy="98" r="5" fill="#A78BFA"/>
+
+  <text x="78" y="112" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4">OLÁ, EU SOU</text>
+  <text x="78" y="167" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Marcos Aurélio</text>
+  <text x="80" y="201" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Desenvolvedor em formação • Aprendizado contínuo</text>
+
+  <rect x="78" y="252" width="164" height="4" rx="2" fill="url(#accent)"/>
+  <text x="262" y="259" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">BUILD • LEARN • REPEAT</text>
+</svg>
