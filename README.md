@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJlbWU1eWRvM3RiMGE5cms3NTl6ZHl5M2d3dTJub2Z2am53dWRiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF animado" height="120" />
   <h1>Olá, eu sou Marcos Aurélio</h1>
   <p>Engenheiro de Software</p>
   <p>Tenho interesse em desenvolvimento de software, bancos de dados e computação em nuvem.</p>
