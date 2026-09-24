@@ -26,7 +26,7 @@
 ### Sequência de contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcosAAurelio&theme=transparent&hide_border=true&background=00000000&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=MarcosAAurelio&theme=transparent&hide_border=false&border=2DD4BF&border_radius=8&background=00000000&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </div>
 
 ### Contribuições
